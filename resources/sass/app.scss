@@ -1,0 +1,19 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import 'jquery.datetimepicker.min.css';
+
+.card img 
+{
+    max-width: 100%;
+}
+
+.my-auto {
+    margin: auto 0;
+}
